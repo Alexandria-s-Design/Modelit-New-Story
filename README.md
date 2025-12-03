@@ -50,3 +50,12 @@ This project uses the same architecture as [modelit-mystery](https://github.com/
 ## License
 
 MIT License - Educational use encouraged
+
+## Status
+Active
+
+## TODO
+- [ ] Generate character images (49 scenes)
+- [ ] Record voice narration
+- [ ] Add background music
+- [ ] Deploy to GitHub Pages
